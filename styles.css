@@ -1,0 +1,22 @@
+span.icon2 {
+    display: none;
+}
+
+div.tweet:hover  span.icon2{
+    display: inline;
+}
+
+img{
+height: 30px;
+width: 30px;
+}
+/*div.a:hover  span.icon1 {
+    display: inline;
+}
+div.a:hover  span.icon2 {
+    display: inline;
+}
+/*a.twitter-timeline-link {
+color: #fa0f0f;
+display: inline;
+}
